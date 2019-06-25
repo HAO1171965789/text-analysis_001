@@ -1,2 +1,1 @@
-# text-analysis_001
-text analysis_001
+本案例介绍了中文分词的相关知识，并用Python的中文分词库jieba和Genius对文本进行分词
